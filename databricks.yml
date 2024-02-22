@@ -1,0 +1,5 @@
+bundle:
+  name: databricks-iris
+
+include:
+  - databricks-resources/*.yml
